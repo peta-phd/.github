@@ -15,4 +15,5 @@ This organization contains the work during Peta Masters Waters's PhD program at 
 
 ## Sofware
 
-
+- [p4 simulator](https://github.com/peta-phd/p4-simulator)
+- [p4 goal recognition](https://github.com/peta-phd/p4-simulator-gr): p4 module for goal recognition and deception
